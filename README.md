@@ -14,7 +14,7 @@ b.
 
 # Palmer Penguins
 
-The data this week comes from [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) by way of the `palmerpenguins` R package by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php), [Dr. Allison Horst](https://twitter.com/allison_horst), and [Dr. Alison Hill](https://twitter.com/apreshill).
+This data is downloaded from [ematm0067](https://github.com/ematm0067) by way of the `palmerpenguins` R package by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php), [Dr. Allison Horst](https://twitter.com/allison_horst), and [Dr. Alison Hill](https://twitter.com/apreshill).
 
 Their [`palmerpenguins` packagedown site](https://allisonhorst.github.io/palmerpenguins/) and corresponding [GitHub Repo](https://github.com/allisonhorst/palmerpenguins) has all the details, which I will duplicate some of below.
 
