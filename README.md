@@ -8,9 +8,6 @@
 
 This data is downloaded from [ematm0067](https://github.com/ematm0067/2023_24/tree/main/coursework) As a part of coursework.
 
-Their [`palmerpenguins` packagedown site](https://allisonhorst.github.io/palmerpenguins/) and corresponding [GitHub Repo](https://github.com/allisonhorst/palmerpenguins) has all the details, which I will duplicate some of below.
-
-You can install their package for reproducible use via `install.packages("palmerpenguins")`.
 
 > The goal of `palmerpenguins` is to provide a great dataset for data exploration & visualization, as an alternative to iris.
 >
