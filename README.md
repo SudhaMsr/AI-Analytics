@@ -1,20 +1,12 @@
 # AI-Analytics
 ## Course work
-### Understanding Data
--/ Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data
-a. its size and shape
-b. data types
-### Data preprocessing
-a. Cleaning data- removing null values
-b. 
-### Data Visualisations
 
 
 ![The palmer penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
 # Palmer Penguins
 
-This data is downloaded from [ematm0067](https://github.com/ematm0067) by way of the `palmerpenguins` R package by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php), [Dr. Allison Horst](https://twitter.com/allison_horst), and [Dr. Alison Hill](https://twitter.com/apreshill).
+This data is downloaded from [ematm0067](https://github.com/ematm0067/2023_24/tree/main/coursework) As a part of coursework.
 
 Their [`palmerpenguins` packagedown site](https://allisonhorst.github.io/palmerpenguins/) and corresponding [GitHub Repo](https://github.com/allisonhorst/palmerpenguins) has all the details, which I will duplicate some of below.
 
@@ -93,7 +85,14 @@ penguins_raw.csv <- readr::read_csv('https://raw.githubusercontent.com/rfordatas
 No cleaning script today, feel free to work with the pre-cleaned data or try your hand at the raw data!
 
 
-
+### Understanding Data
+-/ Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data
+a. its size and shape
+b. data types
+### Data preprocessing
+a. Cleaning data- removing null values
+b. 
+### Data Visualisations
 
 
 
