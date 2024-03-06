@@ -45,10 +45,16 @@ My dataset consisted of the following information:
 
 
 
-### Understanding Data
--/ Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data
-a. its size and shape
-b. data types
+## Data Exploration
+-/ Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data.
+such ad
+a. Structure of the data
+b. Number of rows and columns
+c. Data types of each column (Integer, String, Bool, Float, etc..)
+d. Understanding the context of the data  
+
+## Data Analysis
+
 ### Data preprocessing
 a. Cleaning data- removing null values
 b. 
