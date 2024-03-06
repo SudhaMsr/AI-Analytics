@@ -13,15 +13,11 @@ This data is downloaded from [ematm0067](https://github.com/ematm0067/2023_24/tr
 
 The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
-### Get the data here
+### Get the data 
 
 ```{r}
-# Get the Data
-
-# read the data manually
-
+# Reading the data manually
 penguins.csv <- readr::read_csv('https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.csv')
-
 ```
 
 ## Understanding the Data
