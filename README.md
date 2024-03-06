@@ -24,6 +24,10 @@ penguins.csv <- readr::read_csv('https://github.com/SudhaMsr/AI-Analytics/blob/m
 
 ```
 ### Data Dictionary
+## Understanding the Data
+It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the given columns and finding the relationships and getting insights from the data.
+
+My dataset consisted of the following information:
 
 # `penguins.csv`
 
