@@ -46,8 +46,8 @@ My dataset consisted of the following information:
 
 
 ## Data Exploration
--/ Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data.
-such ad
+Data Exploration is a process of understanding the given data. It gives a chance to get insights and more clarity of data.
+#### such as:
 a. Structure of the data
 b. Number of rows and columns
 c. Data types of each column (Integer, String, Bool, Float, etc..)
