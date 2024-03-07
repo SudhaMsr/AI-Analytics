@@ -15,10 +15,10 @@ The main measurements are body mass, culmen (bill) length, bill depth, and flipp
 
 ### Get the data 
 
-```{r}
-# Reading the data manually
+
+##### Reading the data manually 
 penguins.csv <- readr::read_csv('https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.csv')
-```
+
 
 ## Understanding the Data
 It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the given columns and finding the relationships and getting insights from the data.
