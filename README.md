@@ -52,7 +52,9 @@ a. It includes teh summary of mathematical(Statistical) data such as Mean, Media
 ## Data Visualisation:
 #### Why Visualisation?
 a. Visualization helps in understanding data patterns and trends (Human readable). It help the people to analyzing data, even if they are not from technical background. Plots and other visualization diagrams enable better decision-making by providing a visual context for data. Interactivity is crucial to handle complex data.
+
 b. Easy to measure accuracy and to scale.
+
 c. It helps the user to solve a problem or understand a challenge, not to draw a picture.
 
 #### Why in diagrams?
@@ -64,6 +66,7 @@ a. Color coding can helps in identify patterns, trends, or outliers within the d
 
 ### Data preprocessing
 a. Cleaning data- removing null values
+
 b. 
 ### Data Visualisations
 
