@@ -56,7 +56,7 @@ b. Easy to measure accuracy and to scale.
 c. It helps the user to solve a problem or understand a challenge, not to draw a picture.
 
 #### Why in diagrams?
-a. Visualisation tool is the best for data exploration. Visualising the data through various graphs and plots from [Matplotlib] (https://matplotlib.org/stable/plot_types/index.html) , [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) and Python libraries.
+a. Visualisation tool is the best for data exploration. Visualising the data through various graphs and plots from [Matplotlib](https://matplotlib.org/stable/plot_types/index.html) , [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) and Python libraries.
 
 #### Why Color coding?
 a. Color coding can helps in identify patterns, trends, or outliers within the data and explore relationships between variables.
