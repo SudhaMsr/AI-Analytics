@@ -41,8 +41,11 @@ It is important to understand the data before doing analysis as it gives an over
 
 #### Few basic findings from dataset:
 a. Structure of the data
+
 b. Number of rows and columns
+
 c. Data types of each column (Integer, String, Bool, Float, etc..)
+
 d. Understanding the context of the data  
 
 ## Data Analysis:
