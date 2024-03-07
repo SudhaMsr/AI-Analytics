@@ -78,6 +78,7 @@ b.
 
 
 
+references:
 
-
-
+https://allisonhorst.github.io/palmerpenguins/articles/examples.html
+https://allisonhorst.github.io/palmerpenguins/articles/intro.html
