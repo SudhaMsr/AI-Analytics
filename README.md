@@ -1,5 +1,6 @@
-# AI-Analytics
-## Course work
+# EMATM0067 (AI-Analytics)
+## Course Work for Msc Data Science
+
 
 ![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
