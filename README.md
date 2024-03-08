@@ -6,7 +6,6 @@
 
 # Penguins
 
-
 This data is downloaded from [ematm0067](https://github.com/ematm0067/2023_24/tree/main/coursework) As a part of coursework.
 
 > The goal of coursework using `penguin data` is to provide a great dataset for data exploration, visualization & predicting the penguin type.
