@@ -3,24 +3,12 @@
 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
-
-├── code/                   # Directory containing the Python code for the project
-│   ├── exploratory_analysis.ipynb      # Jupyter Notebook for EDA
-│   ├── classification.ipynb            # Jupyter Notebook for classification algorithms
-│   └── utils.py                        # Utility functions
-├── data/                   # Directory containing the dataset
-│   └── penguin.csv
-├── README.md               # Project README file
-└── report.pdf              # Final project report
-
-
 ![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
 # Project Overview
 ## Question 1:
-
-visualisation
-predicting penguin types
+### Task:
+Explore the dataset and predict the penguin type using machine learning algorithms.
 
 ### Understanding the Data
 
@@ -29,12 +17,9 @@ predicting penguin types
    - It contains information about penguins of three different types. 
    - It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the 
      given columns and finding the relationships and getting insights from the data.
-3. The project aim is to explore the given [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset.
-
-The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
+3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
 ### Dataset consisted of the following information:
-
 ### `penguins.csv`
 
 |variable          |class   |description |
@@ -50,13 +35,12 @@ The main measurements are body mass, culmen (bill) length, bill depth, and flipp
 |year              |integer | year recorded |
 
 ### Basic findings from dataset (Using Exploratory Data Analysis):
-a. Structure of the data
-
-b. Number of rows and columns
-
-c. Data types of each column (Integer, String, Bool, Float, etc..)
-
-d. Understanding the context of the data  
+Explore the given [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset. 
+And some basic checks:
+   a. Structure of the data
+   b. Number of rows and columns
+   c. Data types of each column (Integer, String, Bool, Float, etc..)
+   d. Understanding the context of the data  
 
 ## Data Analysis:
 After understanding the basic details of dataset, next step is to analyse and exploring the data.
