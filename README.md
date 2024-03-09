@@ -1,7 +1,7 @@
 # Introduction to AI and Text Analytics - EMATM0067
 ## AI Coursework
 
-This repository contains the project part of coursework for the Introduction to AI course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
+This repository contains the project part of coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 ### Question 1:
 (A) The project aim is to explore the given [penguin](https://github.com/ematm0067/2023_24/tree/main/coursework) dataset.
 
