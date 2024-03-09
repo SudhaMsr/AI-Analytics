@@ -12,7 +12,7 @@ predicting penguin types
 
 ### Understanding the Data
 
-1. The data used for this project is the penguin.csv dataset
+1. The data used for this project is the [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset
 2. Get the from [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv)
    - It contains information about penguins of three different types. 
    - It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the 
