@@ -3,7 +3,7 @@
 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
-.
+
 ├── code/                   # Directory containing the Python code for the project
 │   ├── exploratory_analysis.ipynb      # Jupyter Notebook for EDA
 │   ├── classification.ipynb            # Jupyter Notebook for classification algorithms
