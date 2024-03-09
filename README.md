@@ -2,39 +2,29 @@
 # AI Coursework
 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
-### Question 1:
-(A) The project aim is to explore the given [penguin](https://github.com/ematm0067/2023_24/tree/main/coursework) dataset.
-
-predicting penguin types
-
-### Question 2:
-Addressing ethical challenges in data science and AI.
-
 
 ![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
+## Question 1:
 
+visualisation
+predicting penguin types
 
+### Understanding the Data
 
-> The goal of coursework using `penguin data` is to provide a great dataset for data exploration, visualization & predicting the penguin type.
->
-> 
+1. Get the [dataset](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv)
+
+   - It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the 
+     given columns and finding the relationships and getting insights from the data.
+
+2. The project aim is to explore the given [penguin](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) 
+   dataset.
 
 The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
-### Get the data 
+### Dataset consisted of the following information:
 
-
-##### Reading the data manually 
-penguins.csv <- readr::read_csv('https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.csv')
-
-
-## Understanding the Data
-It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the given columns and finding the relationships and getting insights from the data.
-
-#### My dataset consisted of the following information:
-
-# `penguins.csv`
+### `penguins.csv`
 
 |variable          |class   |description |
 |:-----------------|:-------|:-----------|
@@ -48,7 +38,7 @@ It is important to understand the data before doing analysis as it gives an over
 |sex               |integer | sex of the animal |
 |year              |integer | year recorded |
 
-#### Few basic findings from dataset:
+### Few basic findings from dataset:
 a. Structure of the data
 
 b. Number of rows and columns
@@ -83,6 +73,9 @@ b.
 ### Data Visualisations
 
 
+
+### Question 2:
+Addressing ethical challenges in data science and AI.
 
 
 
