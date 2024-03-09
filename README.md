@@ -3,8 +3,20 @@
 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
+.
+├── code/                   # Directory containing the Python code for the project
+│   ├── exploratory_analysis.ipynb      # Jupyter Notebook for EDA
+│   ├── classification.ipynb            # Jupyter Notebook for classification algorithms
+│   └── utils.py                        # Utility functions
+├── data/                   # Directory containing the dataset
+│   └── penguin.csv
+├── README.md               # Project README file
+└── report.pdf              # Final project report
+
+
 ![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
+# Project Overview
 ## Question 1:
 
 visualisation
@@ -37,7 +49,7 @@ The main measurements are body mass, culmen (bill) length, bill depth, and flipp
 |sex               |integer | sex of the animal |
 |year              |integer | year recorded |
 
-### Few basic findings from dataset:
+### Basic findings from dataset (Using Exploratory Data Analysis):
 a. Structure of the data
 
 b. Number of rows and columns
