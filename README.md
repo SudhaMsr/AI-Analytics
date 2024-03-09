@@ -1,12 +1,20 @@
-# EMATM0067 (AI-Analytics)
-## Course Work for Msc Data Science
+# Introduction to AI and Text Analytics - EMATM0067
+## AI Coursework
+
+This repository contains the project part of coursework for the Introduction to AI course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
+### Question 1:
+(A) The project aim is to explore the given [penguin](https://github.com/ematm0067/2023_24/tree/main/coursework) dataset.
+
+predicting penguin types
+
+### Question 2:
+Addressing ethical challenges in data science and AI.
 
 
 ![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures/lter_penguins.png)
 
-# Penguins
 
-This data is downloaded from [ematm0067](https://github.com/ematm0067/2023_24/tree/main/coursework) As a part of coursework.
+
 
 > The goal of coursework using `penguin data` is to provide a great dataset for data exploration, visualization & predicting the penguin type.
 >
