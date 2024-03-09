@@ -12,13 +12,12 @@ predicting penguin types
 
 ### Understanding the Data
 
-1. Get the [dataset](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv)
-
+1. The data used for this project is the penguin.csv dataset
+2. Get the from [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv)
+   - It contains information about penguins of three different types. 
    - It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the 
      given columns and finding the relationships and getting insights from the data.
-
-2. The project aim is to explore the given [penguin](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) 
-   dataset.
+3. The project aim is to explore the given [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset.
 
 The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
