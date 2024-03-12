@@ -20,7 +20,7 @@ This repository contains the coursework for the *Introduction to AI* course at [
 3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
 ### Dataset consisted of the following information
-##### The penguin dataset contains observations of penguins with the following attributes:
+#### The penguin dataset contains observations of penguins with the following attributes:
 
 |variable          |class   |description |
 |:-----------------|:-------|:-----------|
