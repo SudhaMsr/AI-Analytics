@@ -8,7 +8,7 @@ This repository contains the coursework for the *Introduction to AI* course at [
 # Project Overview
 ## Question 1:
 ### Task:
-Explore the dataset and predict the penguin type using machine learning algorithms.
+##### Explore the penguin.csv dataset to predict the penguin type using the Penguins dataset. This involves data visualization and algorithm selection.
 
 ### Understanding the Data
 
