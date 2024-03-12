@@ -20,7 +20,6 @@ This repository contains the coursework for the *Introduction to AI* course at [
 3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
 ### Dataset consisted of the following information:
-### `penguins.csv`
 
 |variable          |class   |description |
 |:-----------------|:-------|:-----------|
@@ -33,6 +32,8 @@ This repository contains the coursework for the *Introduction to AI* course at [
 |body_mass_g       |integer | Body mass in grams |
 |sex               |integer | sex of the animal |
 |year              |integer | year recorded |
+
+3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
 ### Basic findings from dataset (Using Exploratory Data Analysis):
 Explore the given [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset. 
