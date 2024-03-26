@@ -10,8 +10,7 @@ These are the types of penguins, I am working on.
 ### Task:
 #### Explore the penguin.csv dataset to predict the penguin type using the Penguins dataset. This involves data visualization and algorithm selection.
 
-### Understanding the Data
-
+### Understanding the Data  
 1. The data used for this project is the [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset
 2. Get the from [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv)
    - It contains information about penguins of three different types. 
