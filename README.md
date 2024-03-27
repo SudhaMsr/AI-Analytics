@@ -1,5 +1,5 @@
 # Introduction to AI and Text Analytics - EMATM0067
-# AI Coursework
+# AI Coursework 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
 ![Penguins](https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif)  
