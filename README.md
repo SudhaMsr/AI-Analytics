@@ -1,7 +1,7 @@
 # Introduction to AI and Text Analytics - EMATM0067 
 # AI Coursework 
 
-<h1 align="center">Introduction to AI and Text Analytics - EMATM0067</h1>
+<h1 align="center"> # Introduction to AI and Text Analytics - EMATM0067</h1>
 
 <h2 align="center">AI Coursework</h2>
 
