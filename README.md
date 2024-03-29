@@ -2,7 +2,7 @@
 # AI Coursework 
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
-![Penguins](https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif)  
+                                        ![Penguins](https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif)  
 These are the types of penguins, I am working on.
 
 # Project Overview 
