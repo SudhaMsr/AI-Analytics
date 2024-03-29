@@ -1,8 +1,6 @@
 <h1 align="center"> Introduction to AI and Text Analytics - EMATM0067</h1>
-
 <h2 align="center">AI Coursework</h2>
 
-<h3 align="center">and this text as ewkk</h3>
 This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
 <div align="center">
