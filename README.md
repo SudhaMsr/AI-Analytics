@@ -2,7 +2,7 @@
 <h1 align="center">AI Coursework on Palmer Penguins Dataset</h1>
 
 ## Coursework Overview:
-This repository contains the coursework for the ***Introduction to AI*** course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
+This repository contains the coursework for the ***Introduction to AI*** course. 
 
 This coursework involves a comprehensive analysis of the Palmer Penguins dataset, focusing on predicting the species type based on various physical characteristics. The Palmer Penguins dataset, made widely accessible by Allison Horst, provides a unique opportunity to apply machine learning techniques to ecological data. This analysis not only aims to accurately predict penguin species but also to explore the data with care and rigor, emphasizing the process over the final accuracy metrics.
 
