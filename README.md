@@ -1,8 +1,8 @@
 <h1 align="center"> Introduction to AI and Text Analytics - EMATM0067</h1>
 <h1 align="center">AI Coursework on Palmer Penguins Dataset</h1>
 
-
-This repository contains the coursework for the *Introduction to AI* course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
+# Project Overview:
+This repository contains the coursework for the Introduction to AI course at [University of Bristol](https://www.bristol.ac.uk/) for Msc Data Science students. 
 
 <div align="center">
   <img src="https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif" alt="Penguins">
