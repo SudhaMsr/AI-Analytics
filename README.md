@@ -8,7 +8,7 @@ Coursework involves a thorough analysis of the Palmer Penguins dataset, focusing
 
 
 <div align="center">
-  <img src="https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif" alt="Penguins">
+  <img src="https://github.com/SudhaMsr/AI-Analytics/blob/main/penguins.jfif" alt="Penguins" width="600">
 </div>
 
 These are the types of penguins, I am working on.
