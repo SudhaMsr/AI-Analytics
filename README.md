@@ -87,3 +87,4 @@ references:
 
 https://allisonhorst.github.io/palmerpenguins/articles/examples.html
 https://allisonhorst.github.io/palmerpenguins/articles/intro.html
+https://learn.microsoft.com/en-gb/training/modules/fundamentals-machine-learning/6-multiclass-classification
