@@ -4,7 +4,7 @@
 ## Overview:
 This repository contains the coursework for the ***Introduction to AI*** course. 
 
-Coursework involves a thorough analysis of the Palmer Penguins dataset, focusing on predicting the species type based on physical characteristics. The dataset, provides a unique opportunity to apply machine learning techniques to ecological data. This analysis not only aims to accurately predict penguin species but also to explore the data with care, emphasizing the process over the final accuracy metrics.
+Coursework involves a thorough analysis of the Palmer Penguins dataset, focusing on predicting the species type based on physical characteristics. The dataset, provides a unique opportunity to apply machine learning techniques to ecological data. This analysis not only aims to accurately predict penguin species but also to explore the data with care, visualisations to understand and get insights from dataset and emphasizing the process over the final accuracy metrics.
 
 
 <div align="center">
