@@ -18,7 +18,7 @@ These are the 3 types of penguins.
 # Project Overview 
 ## Question 1:
 ### Task:
-#### Explore the penguin.csv dataset to predict the penguin type using the Penguins dataset. This involves data visualization and algorithm selection.
+#### Explore the 'penguin.csv' dataset and understand the data, using AI algorithms to predict the penguin type. 
 
 ### Understanding the Data  
 1. The data used for this project is the [penguin.csv](https://github.com/ematm0067/2023_24/blob/main/coursework/penguins.csv) dataset
@@ -26,7 +26,7 @@ These are the 3 types of penguins.
    - It contains information about penguins of three different types. 
    - It is important to understand the data before doing analysis as it gives an overview of the dataset. Understanding the 
      given columns and finding the relationships and getting insights from the data.
-3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
+3. The main measurements of penguins are body mass, culmen (bill) length, bill depth, and flipper length.
 
 ### Dataset consisted of the following information
 #### The penguin dataset contains observations of penguins with the following attributes:
