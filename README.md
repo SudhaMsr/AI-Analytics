@@ -12,7 +12,7 @@ Coursework involves a thorough analysis of the Palmer Penguins dataset, focusing
 </div>
 
 <div align="center">
-These are the types of penguins, I am working on.
+These are the 3 types of penguins.
 </div>
 
 # Project Overview 
