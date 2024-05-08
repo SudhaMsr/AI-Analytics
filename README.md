@@ -40,8 +40,8 @@ These are the 3 types of penguins.
 |bill_depth_mm     |double  | Bill depth in millimeters (also known as culmen depth) |
 |flipper_length_mm |integer | Flipper length in mm |
 |body_mass_g       |integer | Body mass in grams |
-|sex               |integer | sex of the animal |
-|year              |integer | year recorded |
+|sex               |integer | sex of the penguin |
+|year              |integer | year of the observation |
 
 3. The main measurements are body mass, culmen (bill) length, bill depth, and flipper length.
 
