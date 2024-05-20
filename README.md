@@ -70,26 +70,17 @@ a. Visualisation tool is the best for data exploration. Visualising the data thr
 
 #### Why Color coding?
 a. Color coding can helps in identify patterns, trends, or outliers within the data and explore relationships between variables.
- 
 
 ### Data preprocessing
 a. Cleaning data- removing null values
+b. Normalised  values
 
-b. 
 ### Data Visualisations
+Used matplotlib and sns.
 
+### Kmeans Clustering
 
+### KNN and Random Forest
 
 ### Question 2:
 Addressing ethical challenges in data science and AI.
-
-
-
-references:
-
-https://allisonhorst.github.io/palmerpenguins/articles/examples.html
-https://allisonhorst.github.io/palmerpenguins/articles/intro.html
-https://learn.microsoft.com/en-gb/training/modules/fundamentals-machine-learning/6-multiclass-classification
-https://learn.microsoft.com/en-gb/training/modules/fundamentals-machine-learning/8-deep-learning
-https://jchiquet.github.io/MAP566/docs/mixture-models/map566-doc-mixture-models-example.html
-https://github.com/timothynn/Palmer-Penguins-Clustering
